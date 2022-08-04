@@ -1,0 +1,7 @@
+Ruang                     : 131
+Semester                  : 3
+Nama Dosen                : taufik ismail m.kom
+Mata Kuliah               : pweb
+Hari                      : selasa
+jam                       : 8.45
+|==================================================

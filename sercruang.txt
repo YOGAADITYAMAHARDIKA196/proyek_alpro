@@ -1,0 +1,7 @@
+Ruang                     : 523
+Semester                  : 2
+Nama Dosen                : fitri indra m.eng
+Mata Kuliah               : ddp
+Hari                      : rabu
+jam                       : 10.3
+|==================================================

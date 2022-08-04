@@ -1,0 +1,7 @@
+Hari                      : senin
+Mata Kuliah               : dsk
+Ruang                     : 660
+Semester                  : 5
+Nama Dosen                : ahmad azhari m.kom
+jam                       : 7
+|==================================================
